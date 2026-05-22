@@ -1,3 +1,16 @@
+Web Project Title:Blossom Flower Shop Website
+
+Contributors:-
+Name:                        ID:
+1. Likanos Tegene     ugr/30835/15
+2. Medhin Benti          ugr/30863/15
+3. Kidus Tilahun         ugr/30795/15
+4. Mikiyas Sintayehu    ugr/30922/15
+5. Abdulgeni Abdulaziz   ugr/30027/15
+
+Submitted to: Mr Merga Woldeyohannes
+
+
 🌸 Blossom Flower Shop Website
 
 A dynamic, full-stack e-commerce web application built using PHP and MySQL.

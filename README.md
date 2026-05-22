@@ -27,3 +27,10 @@ User authentication system with Sign Up and Login functionality using secure pas
 ### Order History
 
 Registered users can track previous orders and monitor current order fulfillment status.
+
+
+Administrator Features
+Admin Dashboard: High-level overview of daily sales, total users, and pending orders.
+Inventory Control: Full CRUD operations (Create, Read, Update, Delete) for flower products and stock levels.
+Category Management: Dynamically organize the shop by adding or modifying floral categories.
+Order Management: Update order statuses (e.g., Pending, Dispatched, Delivered) in real-time.
